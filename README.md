@@ -1,6 +1,6 @@
 # How to deploy VMware vSphere Virtual Machines using Terraform
 
-Blog Post --> https://medium.com/@gmusumeci/the-ultimate-guide-to-vmware-vsphere-automation-with-packer-terraform-262bde43de15
+Blog Post --> https://medium.com/@gmusumeci/deploying-vmware-vsphere-virtual-machines-with-packer-terraform-d0211f72b7f5
 
 * **main.tf** --> create virtual machines
 
