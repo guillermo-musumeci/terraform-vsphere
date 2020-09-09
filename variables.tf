@@ -99,6 +99,6 @@ variable "vm-template-name" {
 
 variable "vm-domain" {
   type        = string
-  description = "Linux virtual machine domain name for the machine. This, along with host_name, make up the FQDN of the virtual machine"  description = "Linux virtual machine domain name"
+  description = "Linux virtual machine domain name for the machine. This, along with host_name, make up the FQDN of the virtual machine"
   default     = ""
 }
